@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\usr\\web\\winapp_mutex_launcher\\mutexlaunch_dotnet\\WinApplicationMutexLaunch.src\\WinApplicationMutexLaunch\\WinApplicationMutexLaunch.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
